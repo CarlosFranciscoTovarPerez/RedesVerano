@@ -35,5 +35,20 @@ Los grupos de trabajo son las diferentes áreas de enfoque dentro de las especif
 
 ## 
 
-## Cableado Estructurado.
+## Cableado Estructurado
+### ¿Qué es el cableado estructurado?
+El cableado estructurado es un conjunto de cables, conectores, canalizaciones y dispositivos organizados de forma jerárquica y normalizada, que constituyen la infraestructura física de una red de telecomunicaciones dentro de un edificio o campus. Este sistema está diseñado para ser independiente del tipo de dispositivo conectado y del fabricante, permitiendo integrar servicios como voz, datos, video y control.
+
+### Normas que regulan el cableado estructurado
+**Para asegurar la interoperabilidad, desempeño y seguridad del cableado estructurado, existen diversas normas internacionales:** <br>
+- TIA/EIA-568 (EE.UU.): Establece estándares para el cableado en edificios comerciales (tipos de cable, distancia máxima, conectores, etc.).
+- ISO/IEC 11801 (Internacional): Norma para cableado de redes en entornos empresariales.
+- ANSI/TIA-606: Estándar para etiquetado y administración del sistema de cableado.
+- ANSI/TIA-942: Específico para centros de datos. <br>
+**Estas normas definen aspectos clave como:** <br>
+- Tipos de cables y categorías (Cat5e, Cat6, Cat6a, Cat7, fibra óptica, etc.)
+- Topologías recomendadas.
+- Distancias máximas.
+- Tipos de conectores (RJ45, SC, LC, etc.)
+- Requisitos de instalación y pruebas.
 
