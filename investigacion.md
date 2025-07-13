@@ -1,7 +1,7 @@
 # Investigación de IEEE802 y Cableado Estructurado
 
 ## IEEE 802 
-<img src="https://via.placeholder.com/150" style="width: 50%;">
+<img src="https://pbs.twimg.com/profile_images/1225765945702076416/tZUP79ma_400x400.jpg" style="width: 50%;">
 
  
 ### ¿Qué es IEEE 802?
