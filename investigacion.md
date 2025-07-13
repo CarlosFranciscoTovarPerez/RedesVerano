@@ -45,6 +45,7 @@ El cableado estructurado es un conjunto de cables, conectores, canalizaciones y 
 - ISO/IEC 11801 (Internacional): Norma para cableado de redes en entornos empresariales.
 - ANSI/TIA-606: Estándar para etiquetado y administración del sistema de cableado.
 - ANSI/TIA-942: Específico para centros de datos. <br>
+
 **Estas normas definen aspectos clave como:** <br>
 - Tipos de cables y categorías (Cat5e, Cat6, Cat6a, Cat7, fibra óptica, etc.)
 - Topologías recomendadas.
