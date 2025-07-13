@@ -1,3 +1,3 @@
-#Investigación de IEEE802 y Cableado estructurado
+# Investigación de IEEE802 y Cableado estructurado
 
-##IEEE 802
+## IEEE 802
