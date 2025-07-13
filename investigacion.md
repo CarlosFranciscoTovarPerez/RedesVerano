@@ -53,3 +53,21 @@ El cableado estructurado es un conjunto de cables, conectores, canalizaciones y 
 - Tipos de conectores (RJ45, SC, LC, etc.)
 - Requisitos de instalación y pruebas.
 
+### Componentes del Cableado Estructurado
+- **Cableado Horizontal**
+Va desde el área de trabajo (como escritorios u oficinas) hasta el cuarto de telecomunicaciones del piso. Utiliza típicamente cables UTP (Unshielded Twisted Pair).
+
+- **Cableado Vertical o Backbone**
+Interconecta los cuartos de telecomunicaciones entre diferentes pisos o edificios. Usa cableado de mayor capacidad como fibra óptica o pares de cobre apantallados.
+
+- **Cuarto de Telecomunicaciones (TR)**
+Es el espacio físico que contiene el hardware de conexión como paneles de parcheo (patch panels), switches, routers, etc.
+
+- **Área de trabajo**
+Incluye desde la toma de red (faceplate) hasta el dispositivo final (PC, teléfono IP, etc.).
+
+- **Cuarto de Entrada (Entrance Facility)**
+Punto donde el cableado de la red interna se conecta con el proveedor de servicios externo (ISP o PSTN).
+
+- **Gabinetes y Racks**
+Se utilizan para montar ordenadamente los equipos de red y organizar los cables con facilidad.
