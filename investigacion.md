@@ -2,10 +2,6 @@
 
 ## IEEE 802 <br><img src="https://pbs.twimg.com/profile_images/1225765945702076416/tZUP79ma_400x400.jpg" width="100" height="100">
 
-
-
-
- 
 ### ¿Qué es IEEE 802?
 Es un conjunto de estándares de red que abarcan las especificaciones de la capa física y de enlace de datos para tecnologías alámbricas e inalámbricas. Estas especificaciones se aplican sobre redes LAN y MAN.
 
@@ -36,3 +32,5 @@ Los grupos de trabajo son las diferentes áreas de enfoque dentro de las especif
 - IEEE 802.15 (Bluetooth).
 - IEEE 802.16 (WIMAX).
 - IEEE 802.22 (WRAN).
+
+  ## Cableado Estructurado.
