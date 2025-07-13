@@ -1,6 +1,8 @@
 # Investigación de IEEE802 y Cableado Estructurado
 
-## IEEE 802 ![](https://pbs.twimg.com/profile_images/1225765945702076416/tZUP79ma_400x400.jpg)
+## IEEE 802 
+<img src="https://via.placeholder.com/150" style="width: 50%;">
+
  
 ### ¿Qué es IEEE 802?
 Es un conjunto de estándares de red que abarcan las especificaciones de la capa física y de enlace de datos para tecnologías alámbricas e inalámbricas. Estas especificaciones se aplican sobre redes LAN y MAN.
