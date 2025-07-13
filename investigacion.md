@@ -33,4 +33,7 @@ Los grupos de trabajo son las diferentes áreas de enfoque dentro de las especif
 - IEEE 802.16 (WIMAX).
 - IEEE 802.22 (WRAN).
 
-  ## Cableado Estructurado.
+## 
+
+## Cableado Estructurado.
+
