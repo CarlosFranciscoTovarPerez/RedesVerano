@@ -12,10 +12,10 @@ IEEE 802, es un proyecto creado en febrero de 1980 (Dato curioso, el 80 es por e
 Sin estos estándares, sería mucho más difícil conectarse a sistemas que no usaran el mismo conjunto de equipos de red. La estandarización de protocolos ayuda a garantizar que varios tipos de dispositivos puedan conectarse a diversos tipos de redes. También ayuda a evitar que la gestión de la red sea compleja. 
 
 ### Tipos de IEEE802
-- **PARA REDES ALÁMBRICAS**.
+- **PARA REDES ALÁMBRICAS:** <br>
 Los estándares IEEE802 para redes alámbricas establecen cómo deben transmitirse los datos a través de los cables físicos, como los de cobre o fibra óptica, usando protocolos bien definidos para evitar colisiones, controlar el flujo y asegurar la transmisión de datos.
 
-- **PARA REDES INALÁMBRICAS**
+- **PARA REDES INALÁMBRICAS:** <br>
 Los estándares IEEE802 para redes inalámbricas especifican cómo se transmite información a través del aire usando ondas de radio, incluyendo frecuencias, potencias, alcance y seguridad. Permiten la movilidad y contectividad sin cables.
 
 ### Grupos de trabajo
